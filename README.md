@@ -1,4 +1,11 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B10000&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+profile..)](https://git.io/typing-svg)
+            </div>
+
 ![1670268331927](https://user-images.githubusercontent.com/108303424/206825163-b8e63870-fde9-432f-a77c-36d9f9f7b854.jpg)
+
+
 
 <div align="center">
 
@@ -22,6 +29,12 @@ height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
 alt="css3"
 width="40"
+height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      width="40"
+height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+        width="40"
 height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 alt="javascript"
@@ -71,6 +84,17 @@ width="40"
 height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"
 alt="Apple"
+     width="40"
+height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+        width="40"
+height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" 
 width="40"
 height="40" />
 </p>
+<div align="center"
+<a href="https://www.data-card-for-spotify.com/card?user_id=1288881776">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=1288881776" alt="Data Card for Spotify">
+</a>
+</div>
